@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Selenium by packages]">
+  <test name="Testing(failed)">
+    <classes>
+      <class name="Testing.Guru99CrossBrowserScript">
+        <methods>
+          <include name="testParameterWithXML"/>
+        </methods>
+      </class> <!-- Testing.Guru99CrossBrowserScript -->
+    </classes>
+  </test> <!-- Testing(failed) -->
+</suite> <!-- Failed suite [Selenium by packages] -->
